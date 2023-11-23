@@ -1,0 +1,316 @@
+[Classes]
+classe com/yaps/petstore/server/cart/ShoppingCartHome.class 416 189346
+classe com/yaps/petstore/client/ui/referential/ManageCustomerFrame.class 8564 283056
+classe com/yaps/petstore/common/exception/CheckException.class 440 209655
+classe com/yaps/petstore/client/ui/order/CreateOrderFrame$2.class 824 219101
+classe com/yaps/petstore/client/ui/list/ListProductFrame.class 1777 211962
+classe com/yaps/petstore/client/ui/referential/bar/FindEvent.class 447 231636
+classe com/yaps/petstore/client/ui/order/CreateOrderFrame$3.class 824 219160
+classe com/yaps/petstore/web/servlet/UpdateCustomerServlet.class 3304 229243
+classe com/yaps/petstore/client/ui/list/ListCustomerFrame.class 2390 218684
+classe com/yaps/petstore/web/servlet/CreateNewAccountServlet.class 1930 241138
+classe com/yaps/petstore/server/util/uidgen/UniqueIdGeneratorTest.class 2629 277068
+classe com/yaps/petstore/server/domain/customer/Customer.class 6241 214409
+classe com/yaps/petstore/server/service/OrderServiceTest.class 11869 217857
+classe com/yaps/petstore/server/domain/PersistentObject.class 3436 207822
+classe com/yaps/petstore/common/delegate/OrderDelegateTest.class 9441 224891
+classe com/yaps/petstore/web/servlet/FindItemsServlet.class 2472 194117
+classe com/yaps/petstore/client/ui/order/CreateOrderFrame$1.class 824 219042
+classe com/yaps/petstore/server/domain/CreditCard.class 3163 166638
+classe com/yaps/petstore/client/ui/referential/bar/CloseEvent.class 450 239103
+classe com/yaps/petstore/web/servlet/cart/AddItemToCartServlet.class 1827 251600
+classe com/yaps/petstore/common/exception/ObjectNotFoundException.class 398 275094
+classe com/yaps/petstore/server/domain/customer/CustomerDAO.class 4446 229726
+classe com/yaps/petstore/common/dto/ShoppingCartItemDTO.class 1928 201979
+classe com/yaps/petstore/server/service/CustomerServiceTest.class 10069 239526
+classe com/yaps/petstore/web/taglib/CountriesTag.class 1616 162066
+classe com/yaps/petstore/server/domain/order/Order.class 8040 172924
+classe com/yaps/petstore/web/WebTest.class 5649 100603
+classe com/yaps/petstore/common/dto/DataTransfertObject.class 176 202327
+classe com/yaps/petstore/web/servlet/cart/CheckoutServlet.class 2313 219556
+classe com/yaps/petstore/web/servlet/SignOffServlet.class 1712 180748
+classe com/yaps/petstore/server/domain/ProductTest.class 9486 176601
+classe com/yaps/petstore/common/exception/DataAccessException.class 490 243727
+classe com/yaps/petstore/server/domain/product/Product.class 3992 200855
+classe com/yaps/petstore/common/exception/DuplicateKeyException.class 392 260202
+classe com/yaps/petstore/server/service/order/OrderServiceBean.class 8541 252090
+classe com/yaps/petstore/server/util/persistence/AbstractDataAccessObject.class 6831 338154
+classe com/yaps/petstore/client/ui/referential/bar/AbstractBarEvent.class 429 283114
+classe com/yaps/petstore/client/ui/Menu.class 8194 114005
+classe com/yaps/petstore/client/ui/AbstractFrame.class 590 158507
+classe com/yaps/petstore/server/cart/ShoppingCartBean.class 3553 191841
+classe com/barkbank/verifier/VerifyCreditCardServletTest.class 4521 213914
+classe com/yaps/petstore/server/cart/ShoppingCart.class 540 165627
+classe com/yaps/petstore/common/dto/ProductDTO.class 2212 148066
+classe com/yaps/petstore/server/cart/ShoppingCartTest.class 6251 193864
+classe com/yaps/petstore/server/service/catalog/CatalogServiceHome.class 447 277875
+classe com/yaps/petstore/common/constant/Countries.class 6945 177749
+classe com/yaps/petstore/common/locator/ServiceLocatorException.class 438 260887
+classe com/yaps/petstore/common/dto/CreditCardDTO.class 1168 163151
+classe com/yaps/petstore/web/servlet/cart/RemoveItemFromCartServlet.class 1982 292004
+classe com/yaps/petstore/web/VisualiseCatalogTest.class 2501 169468
+classe com/yaps/petstore/client/ui/order/AbstractOrderFrame.class 4801 230280
+classe com/yaps/petstore/client/ui/referential/bar/ManageBar$5.class 832 236445
+classe com/yaps/petstore/common/exception/ApplicationException.class 503 253659
+classe com/yaps/petstore/client/ui/referential/bar/ManageBar.class 4198 233409
+classe com/yaps/petstore/server/domain/item/Item.class 4142 160446
+classe com/yaps/petstore/client/ui/referential/bar/ManageBar$6.class 832 236507
+classe com/yaps/petstore/web/servlet/cart/UpdateCartServlet.class 1950 232588
+classe com/yaps/petstore/web/servlet/SearchItemsServlet.class 2365 207487
+classe com/yaps/petstore/client/ui/referential/bar/UpdateEvent.class 453 246831
+classe com/yaps/petstore/common/delegate/CatalogDelegateTest.class 17493 242247
+classe com/yaps/petstore/server/domain/order/OrderDAO.class 4555 187045
+classe com/yaps/petstore/client/ui/referential/bar/ManageBar$3.class 832 236321
+classe com/yaps/petstore/client/ui/referential/bar/ManageBar$4.class 832 236383
+classe com/yaps/petstore/server/service/creditcard/HTTPSender.class 2700 240628
+classe com/yaps/petstore/common/delegate/CustomerDelegate.class 3132 218618
+classe com/yaps/petstore/common/constant/AmericanStates.class 1850 207004
+classe com/yaps/petstore/server/domain/item/ItemDAO.class 5422 173802
+classe com/yaps/petstore/common/constant/CreditCardTypes.class 653 209577
+classe com/yaps/petstore/web/servlet/SignOnServlet.class 2623 175106
+classe com/yaps/petstore/common/dto/CustomerDTO.class 5106 154424
+classe com/yaps/petstore/common/exception/FinderException.class 524 217444
+classe com/yaps/petstore/client/ui/Menu$13.class 725 119214
+classe com/yaps/petstore/client/ui/Menu$14.class 725 119256
+classe com/yaps/petstore/client/ui/referential/bar/ManageBar$1.class 832 236197
+classe com/yaps/petstore/client/ui/referential/bar/ManageBar$2.class 832 236259
+classe com/yaps/petstore/server/service/AbstractRemoteService.class 1242 248366
+classe com/yaps/petstore/server/domain/category/Category.class 2683 213115
+classe com/yaps/petstore/server/service/creditcard/CreditCardServiceLocalHome.class 453 365092
+classe com/yaps/petstore/client/ui/referential/ManageCategoryFrame.class 5771 281791
+classe com/yaps/petstore/common/dto/AddressDTO.class 1629 147704
+classe com/yaps/petstore/client/ui/Menu$11.class 725 119130
+classe com/yaps/petstore/client/ui/list/AbstractListFrame.class 1913 217284
+classe com/yaps/petstore/client/ui/Menu$12.class 725 119172
+classe com/yaps/petstore/common/dto/ItemDTO.class 2770 131086
+classe com/yaps/petstore/server/util/uidgen/UniqueIdGeneratorDAO.class 3840 262756
+classe com/yaps/petstore/client/ui/list/ListCategoryFrame.class 1661 217826
+classe com/yaps/petstore/server/domain/DomainObject.class 571 176328
+classe com/yaps/petstore/client/ui/referential/bar/ResetEvent.class 450 239798
+classe com/yaps/petstore/common/exception/UpdateException.class 443 217890
+classe com/yaps/petstore/server/domain/product/ProductDAO.class 4623 214886
+classe com/yaps/petstore/common/exception/RemoveException.class 443 218420
+classe com/yaps/petstore/web/servlet/AbstractServlet.class 612 185262
+classe com/yaps/petstore/client/ui/order/ManageOrderFrame$2.class 824 218588
+classe com/yaps/petstore/server/service/catalog/CatalogService.class 1805 252614
+classe com/yaps/petstore/server/service/customer/CustomerServiceHome.class 453 297778
+classe com/yaps/petstore/server/service/creditcard/CreditCardServiceBean.class 2788 327776
+classe com/yaps/petstore/web/servlet/CreateCustomerServlet.class 3609 229223
+classe com/yaps/petstore/client/ui/Menu$10.class 724 119036
+classe com/yaps/petstore/server/util/uidgen/UniqueIdGenerator.class 1833 246717
+classe com/yaps/petstore/common/locator/ServiceLocator.class 5531 200644
+classe com/yaps/petstore/common/logging/Trace.class 2600 144373
+classe com/yaps/petstore/client/ui/referential/bar/DeleteEvent.class 453 246016
+classe com/yaps/petstore/common/delegate/CatalogDelegate.class 4780 210387
+classe com/yaps/petstore/common/exception/CreateException.class 524 217249
+classe com/yaps/petstore/web/taglib/CreditCardTypesTag.class 1653 196741
+classe com/yaps/petstore/client/ui/order/ManageOrderFrame$1.class 824 218529
+classe com/yaps/petstore/server/service/catalog/CatalogServiceBean.class 11080 283903
+classe com/yaps/petstore/client/ui/referential/bar/BarEventListener.class 660 284205
+classe com/yaps/petstore/common/delegate/CustomerDelegateTest.class 9045 247590
+classe com/yaps/petstore/server/util/persistence/DataAccessConstants.class 438 296854
+classe com/yaps/petstore/common/delegate/ShoppingCartDelegate.class 2578 246140
+classe com/barkbank/verifier/VerificationAlgorithm.class 1576 177348
+classe com/yaps/petstore/client/ui/Menu$7.class 722 116343
+classe com/yaps/petstore/common/dto/OrderLineDTO.class 1998 158825
+classe com/yaps/petstore/server/domain/OrderTest.class 9391 163310
+classe com/yaps/petstore/server/domain/category/CategoryDAO.class 2548 228104
+classe com/yaps/petstore/client/ui/Menu$8.class 722 116384
+classe com/yaps/petstore/common/dto/OrderDTO.class 5333 136546
+classe com/yaps/petstore/client/ui/Menu$9.class 722 116425
+classe com/yaps/petstore/client/ui/order/CreateOrderFrame.class 8299 216665
+classe com/yaps/petstore/web/servlet/FindItemServlet.class 2712 187014
+classe com/barkbank/verifier/VerifyCreditCardServlet.class 3870 188031
+classe com/yaps/petstore/server/service/CatalogServiceTest.class 20148 230322
+classe com/yaps/petstore/client/ui/Menu$5.class 722 116261
+classe com/yaps/petstore/server/domain/orderline/OrderLine.class 5276 224646
+classe com/yaps/petstore/client/ui/Menu$6.class 722 116302
+classe com/yaps/petstore/server/service/creditcard/CreditCardServiceLocal.class 356 332132
+classe com/yaps/petstore/client/ui/Menu$2.class 722 116138
+classe com/yaps/petstore/server/domain/OrderLineTest.class 8460 186544
+classe com/yaps/petstore/web/servlet/cart/ViewCartServlet.class 1965 219440
+classe com/yaps/petstore/client/ui/Menu$3.class 722 116179
+classe com/yaps/petstore/client/ui/referential/ManageItemFrame.class 6427 250405
+classe com/yaps/petstore/server/domain/CustomerTest.class 9773 183156
+classe com/yaps/petstore/client/ui/Menu$4.class 722 116220
+classe com/yaps/petstore/common/dto/CategoryDTO.class 1656 154071
+classe com/yaps/petstore/common/delegate/OrderDelegate.class 2706 197598
+classe com/yaps/petstore/server/domain/ItemTest.class 10467 159922
+classe com/yaps/petstore/common/locator/ejb/ServiceLocator.class 4143 224713
+classe com/yaps/petstore/server/domain/Address.class 1598 151537
+classe com/yaps/petstore/server/domain/CategoryTest.class 7394 182224
+classe com/yaps/petstore/client/ui/Menu$1.class 722 116097
+classe com/yaps/petstore/web/taglib/AmericanStatesTag.class 1631 190771
+classe com/yaps/petstore/client/ui/referential/bar/CreateEvent.class 453 246055
+classe com/yaps/petstore/client/ui/list/ListItemFrame.class 1856 190825
+classe com/yaps/petstore/server/service/customer/CustomerServiceBean.class 5859 301581
+classe com/yaps/petstore/server/domain/orderline/OrderLineDAO.class 4982 240266
+classe com/yaps/petstore/client/ui/referential/ManageProductFrame.class 6171 274171
+classe com/yaps/petstore/web/servlet/FindProductsServlet.class 2499 215787
+classe com/yaps/petstore/server/service/order/OrderService.class 790 222305
+classe com/yaps/petstore/client/ui/order/CreateOrderFrame$4.class 824 219219
+classe com/yaps/petstore/web/servlet/CreateCustomerServletTest.class 6778 258732
+classe com/yaps/petstore/AbstractTestCase.class 1227 125415
+classe com/yaps/petstore/server/service/customer/CustomerService.class 1065 271914
+classe com/yaps/petstore/server/service/order/OrderServiceHome.class 435 249218
+classe com/yaps/petstore/client/ui/order/ManageOrderFrame.class 6167 215619
+[/Classes]
+cle 32461257
+[Tests]
+testDomainFindCustomerWithInvalidValues(U) REUSSITE 754659562546160
+testServiceDeleteUnknownCustomer(bl) REUSSITE 754659562520112
+testServiceUpdateProduct(bU) REUSSITE 754659562487092
+testWebCheckLogin(t) REUSSITE 754659562462242
+testServletCreateCustomerWithInvalidPassword(br) REUSSITE 754659562580207
+testServiceCreateItem(bU) REUSSITE 754659562476302
+testBarkBankVerifyValidCreditCard(k) REUSSITE 754659562516983
+testServiceFindAllProducts(bU) REUSSITE 754659562493905
+testDomainUpdateUnknownCustomer(U) REUSSITE 754659562511017
+testDomainFindOrderWithInvalidValues(M) REUSSITE 754659562530842
+testDomainUpdateItem(E) REUSSITE 754659562469964
+testServiceCreateProductWithInvalidCategory(bU) REUSSITE 754659562572137
+testDomainUpdateOrder(M) REUSSITE 754659562473272
+testServiceAuthenticateCustomer(bl) REUSSITE 754659562515598
+testDomainDeleteUnknownCustomer(U) REUSSITE 754659562510858
+testServiceFindCustomerWithInvalidValues(bl) REUSSITE 754659562557183
+testDelegateDeleteUnknownProduct(bq) REUSSITE 754659562519839
+testDomainCreateProductWithInvalidValues(w) REUSSITE 754659562552471
+testDelegateUpdateItem(bq) REUSSITE 754659562480233
+testBarkBankVerifyInvalidXMLDocument(k) REUSSITE 754659562530533
+testWebVisualiseCatalog(aE) REUSSITE 754659562482700
+testDomainCreateProductWithInvalidCategory(w) REUSSITE 754659562562995
+testDomainFindAllOrderLines(aS) REUSSITE 754659562496573
+testDelegateFindOrderWithInvalidValues(ab) REUSSITE 754659562545732
+testDelegateFindProductWithInvalidValues(bq) REUSSITE 754659562557005
+testServiceDeleteInvalidCustomer(bl) REUSSITE 754659562519215
+testServiceFindOrderWithInvalidValues(V) REUSSITE 754659562535919
+testServiceDeleteInvalidItem(bU) REUSSITE 754659562500822
+testServiceCreateCustomer(bl) REUSSITE 754659562491349
+testDelegateFindCategoryWithInvalidValues(bq) REUSSITE 754659562562174
+testDomainFindCategoryWithInvalidValues(x) REUSSITE 754659562547337
+testDelegateCreateItemWithInvalidValues(bq) REUSSITE 754659562551349
+testDelegateUpdateProduct(bq) REUSSITE 754659562491272
+testDomainDeleteUnknownOrder(M) REUSSITE 754659562497791
+testServletCreateCustomer(br) REUSSITE 754659562491729
+testServiceCreateProductWithInvalidValues(bU) REUSSITE 754659562561275
+testServiceUpdateCustomer(bl) REUSSITE 754659562491525
+testDomainFindAllOrders(M) REUSSITE 754659562479236
+testServletCreateCustomerWithInvalidValues(br) REUSSITE 754659562568345
+testDelegateFindAllProductsForACategory(bq) REUSSITE 754659562550599
+testDomainSearchItems(E) REUSSITE 754659562473060
+testDelegateAuthenticateCustomer(N) REUSSITE 754659562514567
+testDelegateFindAllItems(bq) REUSSITE 754659562486585
+testServiceUpdateProductWithInvalidValues(bU) REUSSITE 754659562561451
+testDomainFindAllCustomers(U) REUSSITE 754659562490541
+testDomainMatchPasswordCustomer(U) REUSSITE 754659562510755
+testServiceFindAllItemsForAProductWithInvalidValues(bU) REUSSITE 754659562617332
+testServiceFindAllCategories(bU) REUSSITE 754659562500977
+testServiceCreateItemWithInvalidProduct(bU) REUSSITE 754659562550726
+testServiceFindAllProductsForACategoryWithInvalidValues(bU) REUSSITE 754659562643708
+testDomainFindAllProducts(w) REUSSITE 754659562487653
+testServiceFindItemWithInvalidValues(bU) REUSSITE 754659562535645
+testWebShoppingCart(t) REUSSITE 754659562468238
+testServiceFindAllCustomers(bl) REUSSITE 754659562498614
+testDomainFindAllProductsForACategory(w) REUSSITE 754659562536419
+testDomainUpdateOrderLineWithInvalidValues(aS) REUSSITE 754659562565613
+testServiceCreateOrder(V) REUSSITE 754659562476502
+testDomainCreateOrder(M) REUSSITE 754659562473111
+testDomainUpdateUnknownOrder(M) REUSSITE 754659562497950
+testDomainCreateItemWithInvalidValues(E) REUSSITE 754659562535151
+testDelegateDeleteUnknownItem(bq) REUSSITE 754659562506413
+testDelegateCreateItem(bq) REUSSITE 754659562480042
+testDomainCreateCategory(x) REUSSITE 754659562484319
+testServiceUpdateCategoryWithInvalidValues(bU) REUSSITE 754659562566686
+testDomainUpdateProduct(w) REUSSITE 754659562481142
+testDomainUpdateCustomer(U) REUSSITE 754659562483868
+testServiceCreateCategoryWithInvalidValues(bU) REUSSITE 754659562566510
+testServiceDeleteUnknownCategory(bU) REUSSITE 754659562518849
+testServiceFindProductWithInvalidValues(bU) REUSSITE 754659562550869
+testServiceDeleteInvalidProduct(bU) REUSSITE 754659562513823
+testDelegateFindAllProductsForACategoryWithInvalidValues(bq) REUSSITE 754659562651894
+testDelegateDeleteUnknownCategory(bq) REUSSITE 754659562524090
+testDomainCreateItem(E) REUSSITE 754659562469803
+testDomainFindOrderLineWithInvalidValues(aS) REUSSITE 754659562554935
+testServiceDeleteInvalidOrder(ab) REUSSITE 754659562505326
+testDomainCreateOrderLineWithInvalidValues(aS) REUSSITE 754659562565452
+testDomainUpdateItemWithInvalidValues(E) REUSSITE 754659562535312
+testDomainCreateOrderLine(aS) REUSSITE 754659562489380
+testDomainUpdateUnknownProduct(w) REUSSITE 754659562507731
+testDomainDeleteUnknownItem(E) REUSSITE 754659562493657
+testDelegateCreateCustomer(N) REUSSITE 754659562490435
+testServiceDeleteInvalidOrder(V) REUSSITE 754659562501106
+testDelegateUpdateCustomerWithInvalidValues(N) REUSSITE 754659562566711
+testDelegateDeleteInvalidCategory(bq) REUSSITE 754659562523152
+testDomainCreateItemWithInvalidProduct(E) REUSSITE 754659562540279
+testServiceCreateCustomerWithInvalidValues(bl) REUSSITE 754659562567863
+testServiceSearchItems(bU) REUSSITE 754659562479792
+testDomainCreateCustomerWithInvalidValues(U) REUSSITE 754659562556383
+testDomainUpdateUnknownItem(E) REUSSITE 754659562493816
+testDomainUpdateUnknownCategory(x) REUSSITE 754659562511734
+testServiceCreateProduct(bU) REUSSITE 754659562486916
+testDelegateCreateCustomerWithInvalidValues(N) REUSSITE 754659562566520
+testDomainFindProductWithInvalidValues(w) REUSSITE 754659562542408
+testDomainUpdateProductWithInvalidValues(w) REUSSITE 754659562552632
+testDelegateDeleteInvalidProduct(bq) REUSSITE 754659562518901
+testWebCheckServlets(t) REUSSITE 754659562471518
+testServiceDeleteInvalidCategory(bU) REUSSITE 754659562517952
+testDomainUpdateCustomerWithInvalidValues(U) REUSSITE 754659562556544
+testDelegateDeleteInvalidItem(bq) REUSSITE 754659562505475
+testDelegateFindAllCustomers(N) REUSSITE 754659562497629
+testDomainDeleteUnknownOrderLine(aS) REUSSITE 754659562517560
+testServiceUpdateCustomerWithInvalidValues(bl) REUSSITE 754659562568039
+testServiceCreateCategory(bU) REUSSITE 754659562490387
+testDomainDeleteUnknownCategory(x) REUSSITE 754659562511575
+testServiceUpdateItemWithInvalidValues(bU) REUSSITE 754659562545545
+testDomainFindAllItems(E) REUSSITE 754659562475686
+testDelegateCreateOrderWithInvalidCreditCard(ab) REUSSITE 754659562575240
+testDomainUpdateOrderWithInvalidValues(M) REUSSITE 754659562540520
+testDelegateCreateCategory(bq) REUSSITE 754659562494674
+testDelegateUpdateCategory(bq) REUSSITE 754659562494865
+testDelegateCreateProduct(bq) REUSSITE 754659562491081
+testServiceCreateOrderWithInvalidValues(V) REUSSITE 754659562545667
+testDomainFindItemWithInvalidValues(E) REUSSITE 754659562525870
+testServiceUpdateCategory(bU) REUSSITE 754659562490563
+testBarkBankVerifyInvalidNumberCreditCard(k) REUSSITE 754659562554907
+testDomainDeleteUnknownProduct(w) REUSSITE 754659562507572
+testDomainCreateCategoryWithInvalidValues(x) REUSSITE 754659562557590
+testDelegateFindItemWithInvalidValues(bq) REUSSITE 754659562541356
+testServiceUpdateItem(bU) REUSSITE 754659562476478
+testServiceFindAllItemsForAProduct(bU) REUSSITE 754659562525333
+testShoppingCart(bL) REUSSITE 754659562461998
+testDelegateUpdateProductWithInvalidValues(bq) REUSSITE 754659562567871
+testWebCheckPages(t) REUSSITE 754659562462119
+testDomainUpdateCategoryWithInvalidValues(x) REUSSITE 754659562557751
+testUtilUniqueId(bv) REUSSITE 754659562462511
+testServiceFindAllItems(bU) REUSSITE 754659562482602
+testDomainUpdateUnknownOrderLine(aS) REUSSITE 754659562517719
+testDelegateCreateProductWithInvalidValues(bq) REUSSITE 754659562567680
+testDelegateFindAllCategories(bq) REUSSITE 754659562505621
+testServiceCreateOrderWithInvalidCreditCard(V) REUSSITE 754659562564193
+testDelegateFindAllItemsForAProduct(bq) REUSSITE 754659562530732
+testDelegateDeleteUnknownCustomer(N) REUSSITE 754659562519053
+testServiceCreateItemWithInvalidValues(bU) REUSSITE 754659562545369
+testDomainCreateProduct(w) REUSSITE 754659562480981
+testDelegateCreateOrderWithInvalidValues(ab) REUSSITE 754659562555913
+testServiceDeleteUnknownItem(bU) REUSSITE 754659562501719
+testDelegateUpdateItemWithInvalidValues(bq) REUSSITE 754659562551540
+testDelegateFindAllItemsForAProductWithInvalidValues(bq) REUSSITE 754659562624971
+testDomainCreateCustomer(U) REUSSITE 754659562483707
+testDomainFindAllItemsForAProduct(E) REUSSITE 754659562516044
+testDelegateFindAllProducts(bq) REUSSITE 754659562498313
+testServiceDeleteInvalidCustomer(N) REUSSITE 754659562514009
+testDelegateFindCustomerWithInvalidValues(N) REUSSITE 754659562555885
+testDelegateSearchItems(bq) REUSSITE 754659562483678
+testDomainUpdateCategory(x) REUSSITE 754659562484480
+testDomainFindAllCategories(x) REUSSITE 754659562494444
+testServiceFindAllProductsForACategory(bU) REUSSITE 754659562544653
+testDelegateCreateOrder(ab) REUSSITE 754659562483114
+testDelegateUpdateCustomer(N) REUSSITE 754659562490626
+testDelegateUpdateCategoryWithInvalidValues(bq) REUSSITE 754659562573228
+testDomainCreateOrderWithInvalidValues(M) REUSSITE 754659562540359
+testDelegateCreateCategoryWithInvalidValues(bq) REUSSITE 754659562573037
+testServiceDeleteUnknownProduct(bU) REUSSITE 754659562514720
+testBarkBankVerifyOldCreditCard(k) REUSSITE 754659562508545
+testServiceFindCategoryWithInvalidValues(bU) REUSSITE 754659562555916
+[/Tests]
+cle 9123834110893206075
